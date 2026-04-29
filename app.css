@@ -44,5 +44,7 @@ button {
 }
 
 button:hover {
-  background: magenta;
+  background: mediumvioletred;
+  color: white;
+  
 }
