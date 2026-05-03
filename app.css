@@ -62,3 +62,13 @@ button:hover {
   color: white;
   transform: scale(1.2);
 }
+
+@media (max-width: 480px) {
+   .container{
+       padding:15px;
+   }
+
+h1{
+  font-size:70px;
+}
+}
